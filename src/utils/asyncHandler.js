@@ -9,6 +9,8 @@ const asyncHandler =(requestHandler)=>{
 
 export {asyncHandler}
 
+// it is use to remove the need of try catch manually
+
 
 // const asyncHandler = (fn)=> async() =>{
 //     try{
